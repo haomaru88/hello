@@ -1,0 +1,6 @@
+{
+    "cmake.configureOnOpen": false,
+    "editor.fontSize": 15,
+    "dart.lineLength": 300,
+    "editor.hideCursorInOverviewRuler": false
+}
